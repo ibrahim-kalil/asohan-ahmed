@@ -1,36 +1,15 @@
 
-
-https://images.unsplash.com/photo-1555066931-78c471f0d4ea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-
-
-#Hi there 👋, Hi There  I'm Sohan  Ahmed
-#### I am Learning MERN STACK
-
+(https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-6/242748110_1241721029633952_2727363069976949838_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=Rbb-fSDwM-kAX-6bjNS&_nc_ht=scontent.fdac34-1.fna&oh=1be92c0631bcaf9b9bda0718b064be06&oe=61528CB5)
+# Hi there 👋, my name is Sohan ahmed
+#### I am Learning MERN STACK  development
+![I am Learning MERN STACK  development]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / JS / HTML / CSS MONGIDB / NODE JS / EXPRESS JS / REACT JS
 
-- 🔭 I’m currently working on MERN STACK 
-- 🌱 I’m currently learning Javascript 
-- 🤔 I’m looking for help with js 
-- ⚡ Fun fact: Alone time 
+- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asohan-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ibrahimhate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/imsohanahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>](Md-Kalil-1-1)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asohan-ahmed)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asohan-ahmed)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asohan-ahmed&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asohan-ahmed)  
-
-![GitHub metrics](https://metrics.lecoq.io/asohan-ahmed)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asohan-ahmed)  
-
-![Profile views](https://gpvc.arturio.dev/asohan-ahmed)  
