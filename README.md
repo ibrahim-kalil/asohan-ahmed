@@ -4,9 +4,14 @@
 # Hi there 👋, my name is SOHAN AHMED
 ## I am Learning a MERN STACK Development
 
-I’m Sohan Ahmed Passionate about web development. I’m working a minimum of 13-14 hours every day, I love to do this it’s my life everything.
+I’m Sohan Ahmed Passionate about web development. 
+
+I’m working a minimum of 13-14 hours every day, 
+
+I love to do this it’s my life everything.
 My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project, and give support for every problem.
-If need I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add a page,s and post on the website by themselves
+If need I communicate by video or audio conversations to understand the problems and project requirements.
+After completing the website and projects I give instructions, How they can manage, edit, update, add a page,s and post on the website by themselves
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
